@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/real-estate-website_/static/css/main.a0d2653c.chunk.css",
+    "main.js": "/real-estate-website_/static/js/main.f58c597e.chunk.js",
+    "main.js.map": "/real-estate-website_/static/js/main.f58c597e.chunk.js.map",
+    "runtime-main.js": "/real-estate-website_/static/js/runtime-main.f9178f77.js",
+    "runtime-main.js.map": "/real-estate-website_/static/js/runtime-main.f9178f77.js.map",
+    "static/js/2.f678d738.chunk.js": "/real-estate-website_/static/js/2.f678d738.chunk.js",
+    "static/js/2.f678d738.chunk.js.map": "/real-estate-website_/static/js/2.f678d738.chunk.js.map",
+    "index.html": "/real-estate-website_/index.html",
+    "static/css/main.a0d2653c.chunk.css.map": "/real-estate-website_/static/css/main.a0d2653c.chunk.css.map",
+    "static/js/2.f678d738.chunk.js.LICENSE.txt": "/real-estate-website_/static/js/2.f678d738.chunk.js.LICENSE.txt",
+    "static/media/Video.7d1ea6a9.mp4": "/real-estate-website_/static/media/Video.7d1ea6a9.mp4",
+    "static/media/svg-1.svg": "/real-estate-website_/static/media/svg-1.198c8835.svg",
+    "static/media/svg-2.e4b723af.svg": "/real-estate-website_/static/media/svg-2.e4b723af.svg",
+    "static/media/svg-3.svg": "/real-estate-website_/static/media/svg-3.8e26870e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9178f77.js",
+    "static/js/2.f678d738.chunk.js",
+    "static/css/main.a0d2653c.chunk.css",
+    "static/js/main.f58c597e.chunk.js"
+  ]
+}
