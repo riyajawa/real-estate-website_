@@ -1,5 +1,5 @@
 {
-  "homepage": "https://riyajawa.github.io/real-estate-website_/",
+  "homepage": "https://riyajawa.github.io/real-estate-websites",
   "name": "website",
   "version": "0.1.0",
   "private": true,
@@ -19,9 +19,10 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+   
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
