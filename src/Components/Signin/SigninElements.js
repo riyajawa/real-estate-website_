@@ -27,7 +27,7 @@
      height: 80%;
  }
  `;
- export const Icon = styled(link)`
+ export const Icon = styled(Link)`
  margin-left: 32px;
  margin-top: 32px;
  text-decoration: none;
